@@ -1,0 +1,53 @@
+div{
+    background-color:#BFEAF5;
+    
+
+}
+
+
+body{
+
+    background-color: rgb(208, 236, 244);
+}
+
+img {
+    height: 100px;
+    width:100px;
+   
+
+}
+.profile{
+    text-align: left;
+    font-size: 12px;
+}
+
+hr {
+    background-color: rgb(173, 224, 241);
+    border-style: dotted none none;
+    border-color:rgb(48, 36, 36);
+    border-width: 2px;
+    width:20%;
+}
+.Education{
+    text-align: left;
+    font-size: 18px;
+
+}
+
+.workexperience{
+
+    text-align: left;
+    font-size: 18px;
+    
+}
+
+.Skills{
+    text-align: left;
+    font-size: 18px;
+    word-spacing: 3em;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+
+}
